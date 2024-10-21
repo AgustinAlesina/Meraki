@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #dadada;
+    
+h1 {
+        color: #050505;
+        font-size: 2.5em;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+p {
+    Color: #333;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+}
+
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center
+}
